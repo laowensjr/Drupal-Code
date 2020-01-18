@@ -1,0 +1,8 @@
+;$Id$
+name = Salons
+description = Salon Information
+package = Salon Data
+core = 7.x
+files[] = salonsdata.module
+;dependencies[] = autoload
+;php = 5.4
